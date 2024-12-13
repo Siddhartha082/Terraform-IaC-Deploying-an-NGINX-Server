@@ -1,5 +1,7 @@
 # **Infrastructure as Code (IaC) Project: Deploying an NGINX Server**
 
+## Article -- https://dev.to/bokal/architecting-aws-with-terraform-series-373l
+
 ## **Introduction**
 
 This project demonstrates the use of Infrastructure as Code (IaC) to deploy an **NGINX server** on an AWS EC2 instance. The infrastructure includes a VPC, subnet, internet gateway, and other components required to allow TCP connections from the internet on ports **80 (HTTP)** and **443 (HTTPS)**.
